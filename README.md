@@ -26,7 +26,7 @@ Rat Racer is a physics-based car simulator. This is not a typical arcade game - 
 All tracks are virtual sandboxes, you can drive everywhere and do anything what your car physics allows. All collisions, jumps, spins are unique due to real time physics and such environment.
 ![](screenshots/sandbox_01.jpg)
  Each track has different ground types - dirt, tarmac, sand which can also reacting with the car.
-![](screenshots/graphics_details_01.png)
+![](screenshots/graphics_details_01.jpg)
 
 
 <br>
@@ -90,8 +90,8 @@ The race track creation process is definitely the hardest part of this game. The
 <br>
 Last year I moved the generator to 3D to have the overview of the track from game perspective and it greatly speed up the creation process. Now I'm experimenting also with AI generators like DALL-E and Midjourney so the next tracks should be more realistic and playable.
 
-![](screenshots/track_generator_01.png)
-![](screenshots/track_generator_02.png)
+![](screenshots/track_generator_01.jpg)
+![](screenshots/track_generator_02.jpg)
 
 
 ### Track Randomization
