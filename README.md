@@ -3,12 +3,13 @@
 >title: Rat Racer
 ><br>
 >developer: Jacku
-<br>
+><br>
 >publisher: uszymyszy [ushi mishi]
-<br>
->description: a tiny game with physics simulations hidden under two motorized rats :)<br>
+><br>
+>description: a tiny game with physics simulations hidden under two motorized rats :)
+><br>
 >game modes: player vs. player, player vs. AI, online multiplayer
-<br>
+><br>
 >links: [Steam](https://store.steampowered.com/app/1199360/Rat_Racer) | [Twitter](https://twitter.com/uszymyszy) | 
 [Reddit](https://www.reddit.com/r/Unity3D/comments/eax1kr/i_applied_your_comments_to_car_physics_and_here/) | 
 [Discord](https://steamcommunity.com/linkfilter/?url=https://discord.gg/bWzGe5wQpY) | 
