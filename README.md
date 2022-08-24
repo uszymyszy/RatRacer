@@ -1,7 +1,6 @@
 # Rat Racer Press Kit
 
 >title: Rat Racer
-<br>
 >developer: Jacku
 <br>
 >publisher: uszymyszy [ushi mishi]
