@@ -85,7 +85,7 @@ The race track creation process is definitely the hardest part of this game. The
 <br>
 
 ![](screenshots/track_generator_2D.gif)
-![](screenshots/handbrake.gif)
+
 
 <br>
 Last year I moved the generator to 3D to have the overview of the track from game perspective and it greatly speed up the creation process. Now I'm experimenting also with AI generators like DALL-E and Midjourney so the next tracks should be more realistic and playable.
