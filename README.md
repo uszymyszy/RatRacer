@@ -22,7 +22,7 @@ Rat Racer is a physics-based car simulator. This is not a typical arcade game - 
 ![](screenshots/racetrack_old_station_01.jpg)
 <br>
 
-## Sandbox
+### Sandbox
 All tracks are virtual sandboxes, you can drive everywhere and do anything what your car physics allows. All collisions, jumps, spins are unique due to real time physics and such environment.
 ![](screenshots/sandbox_01.jpg)
  Each track has different ground types - dirt, tarmac, sand which can also reacting with the car.
