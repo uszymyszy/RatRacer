@@ -18,8 +18,7 @@ links: [Steam](https://store.steampowered.com/app/1199360/Rat_Racer) | [Twitter]
 
 ## Intro
 Rat Racer is a physics-based car simulator. This is not a typical arcade game - everything is calculated in real time by Nvidia PhysX engine so the drive model is more difficult to learn at the beginning, but it gives you much more satisfaction when you master it over time.
-![](screenshots\racetrack_old_station_01.jpg)
-
+<img src="\screenshots\racetrack_old_station_01.jpg">
 <br>
 
 ## Sandbox
