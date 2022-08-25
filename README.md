@@ -12,7 +12,7 @@
 ><br>
 >links: [Steam](https://store.steampowered.com/app/1199360/Rat_Racer) | [Twitter](https://twitter.com/uszymyszy) | 
 [Reddit](https://www.reddit.com/r/Unity3D/comments/eax1kr/i_applied_your_comments_to_car_physics_and_here/) | 
-[Discord](https://steamcommunity.com/linkfilter/?url=https://discord.gg/bWzGe5wQpY) | 
+[Discord](https://discord.gg/bWzGe5wQpY) | 
 [YouTube](https://www.youtube.com/watch?v=ts1PP9cTiks)  
 
 <br>
